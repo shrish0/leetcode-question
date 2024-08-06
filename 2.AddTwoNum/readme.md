@@ -39,7 +39,12 @@ The problem is solved using the following approach:
 
 4. **Return Result**:
    - Return the node following the dummy node, which is the head of the actual result list.
-
+## Summary
+### Time Complexity: 
+   - O(n), where n is the length of the longer of the two linked lists.
+### Space Complexity: 
+   - O(n), where n is the length of the longer of the two linked lists.
+   
 ## Constraints
 
 - The number of nodes in each linked list is in the range [1, 100].
