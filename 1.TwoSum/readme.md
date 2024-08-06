@@ -64,4 +64,11 @@ A `HashMap` in Java is a data structure that allows you to store key-value pairs
   ```java
   map.remove(key);
   ```
+   
+## Summary
+
+### Time Complexity: 
+   - O(n), where n is the length of the longer of the two linked lists.
+### Space Complexity: 
+   - O(n), where n is the length of the longer of the two linked lists.
 
